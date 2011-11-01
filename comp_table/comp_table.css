@@ -1,0 +1,7 @@
+/*#myTable tr {
+	border: 1px solid #000000;
+}*/
+
+#myTable tr.even {
+	background-color: #B7E68E;
+}
